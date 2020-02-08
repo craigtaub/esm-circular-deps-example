@@ -1,0 +1,11 @@
+{
+  "name": "esm_cyclic_deps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
